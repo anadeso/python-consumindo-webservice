@@ -13,8 +13,10 @@ SOAP (Simple Object Access Protocol) e REST (Representation State Transfer) são
 
 ## 💻 Python - Consumindo Web Service usando SOAP 
 
-- Utilizei a biblioteca [Zeep][Zeep] para consumir o web service.
-- Utilizando o [soapUI][soapUI] consegui analisar o contrato do [serviço][serviço] no qual utilizei no código.
+- Para facilitar na leitura e teste do WSDL utilizeo o [soapUI][soapUI].
+
+[![](https://i.imgur.com/CTp39di.png)](https://i.imgur.com/CTp39di.png)
+- Utilizei a biblioteca [Zeep][Zeep] que é um cliente SOAP para o Python, e que tem como ação de analisar o contrato WSDL e desenvolver o código para usar os serviços, ajudando-nos no consumo no web service.
 
 
 
