@@ -16,7 +16,7 @@ SOAP (Simple Object Access Protocol) e REST (Representation State Transfer) são
 - Para facilitar na leitura e teste do WSDL utilizeo o [soapUI][soapUI].
 
 [![](https://i.imgur.com/CTp39di.png)](https://i.imgur.com/CTp39di.png)
-- Utilizei a biblioteca [Zeep][Zeep] que é um cliente SOAP para o Python, e que tem como ação de analisar o contrato WSDL e desenvolver o código para usar os serviços, ajudando-nos no consumo no web service.
+- Utilizei a biblioteca [Zeep][Zeep] que é um cliente SOAP para o Python, e que tem como ação analisar o contrato WSDL e desenvolver o código para usar os serviços, ajudando-nos no consumo no web service.
 
 
 
