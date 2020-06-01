@@ -2,7 +2,7 @@
 
 SOAP (Simple Object Access Protocol) e REST (Representation State Transfer) são duas estruturas diferentes de web services.
 
-##📖 Resumo sobre REST e SOAP 
+## 📖 Resumo sobre REST e SOAP 
 ### REST
 
 [![REST](https://i.imgur.com/UJZNuzI.png "REST")](https://i.imgur.com/UJZNuzI.png "REST")
@@ -13,8 +13,8 @@ SOAP (Simple Object Access Protocol) e REST (Representation State Transfer) são
 
 ## 💻 Python - Consumindo Web Service usando SOAP 
 
-Utilizei a biblioteca [Zeep][Zeep] para consumir o web service.
-Utilizando o [soapUI][soapUI] consegui analisar o contrato do [serviço][serviço] no qual utilizei no código.
+- Utilizei a biblioteca [Zeep][Zeep] para consumir o web service.
+- Utilizando o [soapUI][soapUI] consegui analisar o contrato do [serviço][serviço] no qual utilizei no código.
 
 
 
